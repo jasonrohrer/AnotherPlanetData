@@ -1,16 +1,19 @@
 id=46
 Wild Gooseberry Bush
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=1.000000#biomes_0
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
@@ -22,8 +25,10 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=7
 spriteID=391
 pos=7.000000,-24.000000
@@ -33,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=392
 pos=17.000000,18.000000
 rot=0.000000
@@ -41,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=393
 pos=6.000000,23.000000
 rot=0.000000
@@ -49,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=394
 pos=17.000000,2.000000
 rot=0.000000
@@ -57,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=395
 pos=7.000000,7.000000
 rot=0.000000
@@ -65,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=396
 pos=-4.000000,-5.000000
 rot=0.000000
@@ -73,6 +83,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=397
 pos=-6.000000,8.000000
 rot=0.000000
@@ -81,11 +92,13 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=6
+numUses=6,1.000000
 useVanishIndex=1,2,3,4,5,6
 useAppearIndex=-1
 pixHeight=37
+author=5ED1F9012B
