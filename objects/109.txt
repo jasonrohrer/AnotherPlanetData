@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0
+mapChance=0.010000#biomes_2
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -92,4 +92,4 @@ numUses=2,1.000000
 useVanishIndex=1,2
 useAppearIndex=-1
 pixHeight=4
-author=0EE1B623D2
+author=5ED1F9012B

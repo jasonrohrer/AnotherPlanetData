@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=72:0.250000,72:0.250000,73:0.250000,-1:0.0
+sounds=74:0.250000,74:0.250000,75:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -56,4 +56,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=9
-author=B6B731B87D
+author=5ED1F9012B
