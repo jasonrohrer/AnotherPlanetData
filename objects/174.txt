@@ -75,11 +75,11 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=536
-pos=-28.000000,-44.000000
+spriteID=664
+pos=-20.000000,-46.000000
 rot=0.000000
 hFlip=0
-color=0.929577,0.943464,1.000000
+color=0.690196,0.078431,0.184314
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
