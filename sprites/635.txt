@@ -1,0 +1,1 @@
+DoorOpenHDry 0 -5 10 author=E5BBC4D5F7

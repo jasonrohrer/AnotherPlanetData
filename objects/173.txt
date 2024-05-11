@@ -75,11 +75,11 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=533
-pos=-57.000000,-26.999999
+spriteID=667
+pos=-48.000000,-21.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.690196,0.078431,0.184314
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -91,5 +91,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=15
+pixHeight=23
 author=5ED1F9012B
