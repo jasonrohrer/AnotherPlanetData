@@ -1,6 +1,6 @@
 id=243
 Wet Sand Ball with Eyes
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -65,4 +65,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=19
-author=818439E626
+author=5ED1F9012B
