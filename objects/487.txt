@@ -1,6 +1,6 @@
 id=487
 Metal Plate
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -47,4 +47,4 @@ numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
-author=AAA88C9DBF
+author=5ED1F9012B
