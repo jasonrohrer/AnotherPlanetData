@@ -76,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=429
-pos=-18.000000,-24.000000
+pos=-18.000000,-15.000000
 rot=0.750000
 hFlip=1
 color=1.000000,1.000000,1.000000
@@ -101,4 +101,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=15
-author=818439E626
+author=5ED1F9012B

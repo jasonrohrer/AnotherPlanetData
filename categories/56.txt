@@ -1,9 +1,15 @@
 parentID=56
 pattern
-numObjects=6
+numObjects=12
 58
 132
 296
 238
 236
 419
+432
+434
+477
+495
+494
+513

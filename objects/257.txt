@@ -1,5 +1,5 @@
 id=257
-Composted Soil5
+Composted Soil Pile
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -88,7 +88,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=7,1.000000
+numUses=6,1.000000
 useVanishIndex=0,1,2,3,4,5
 useAppearIndex=-1
 pixHeight=0

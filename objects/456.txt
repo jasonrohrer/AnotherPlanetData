@@ -2,7 +2,7 @@ id=456
 Malachite Powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -47,3 +47,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=10
+author=5ED1F9012B
