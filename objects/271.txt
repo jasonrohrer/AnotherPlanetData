@@ -1,5 +1,5 @@
 id=271
-Cracked Boulder #withScrewdriver
+Cracked Boulder #withScrewdriver 
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,16 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=6
+numSprites=7
+spriteID=554
+pos=-27.000000,-20.000000
+rot=-0.250000
+hFlip=1
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=428
 pos=0.000000,-8.000004
 rot=0.000000
@@ -40,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=570
-pos=0.000000,0.000000
+pos=0.000000,-2.000000
 rot=0.000000
 hFlip=0
 color=0.650000,0.599950,0.422500
@@ -49,8 +58,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=554
-pos=3.000000,23.000000
-rot=0.250000
+pos=7.000000,18.000000
+rot=0.375000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -67,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=554
-pos=-27.000000,-20.000000
+pos=-6.000000,-23.000000
 rot=-0.250000
 hFlip=1
 color=1.000000,1.000000,1.000000
@@ -76,9 +85,9 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=543
-pos=-37.000000,-26.000000
-rot=0.375000
-hFlip=0
+pos=28.000000,-33.999996
+rot=0.750000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -91,5 +100,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=43
-author=5ED1F9012B
+pixHeight=41
+author=9EAB7F458D

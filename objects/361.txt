@@ -1,5 +1,5 @@
 id=361
-Green Astrosuit1
+Green Astrosuit1 +slotsInvis
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -9,7 +9,7 @@ heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.000000
+rValue=0.400000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -26,9 +26,10 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
-numSlots=0#timeStretch=1.000000
+numSlots=1#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotPos=0.000000,0.000000,vert=0,parent=-1
 numSprites=1
 spriteID=663
 pos=0.000000,0.000000

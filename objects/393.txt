@@ -1,5 +1,5 @@
 id=393
-Empty Crash Site# +hungryWork10
+Empty Crash Site# +hungryWork5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
