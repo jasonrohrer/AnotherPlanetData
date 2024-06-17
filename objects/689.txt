@@ -2,7 +2,7 @@ id=689
 Powered Rover
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -310,8 +310,8 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0,0.000000
+numUses=50,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=139
-author=B6B731B87D
+author=5ED1F9012B

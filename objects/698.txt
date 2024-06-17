@@ -1,5 +1,5 @@
 id=698
-@ Perhaps Poisonous
+Perhaps Poisonous
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -47,4 +47,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=25
-author=818439E626
+author=5ED1F9012B

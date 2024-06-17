@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=70:0.250000,70:0.250000,-1:0.0,-1:0.0
+sounds=170:0.250000,170:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=3#timeStretch=1.000000

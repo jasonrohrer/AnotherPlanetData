@@ -1,7 +1,7 @@
 id=262
 Shell With Yeast
 containable=1
-containSize=2.000000,vertSlotRot=0.000000
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -74,4 +74,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
-author=9EAB7F458D
+author=5ED1F9012B

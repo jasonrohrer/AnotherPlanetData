@@ -110,4 +110,4 @@ numUses=6,1.000000
 useVanishIndex=1,2,3,4,5,6
 useAppearIndex=-1
 pixHeight=2
-author=818439E626
+author=5ED1F9012B

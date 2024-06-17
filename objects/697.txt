@@ -1,5 +1,5 @@
 id=697
-Pile of Poison Eye Fruit
+Pile of Eye Fruit# poison
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -65,4 +65,4 @@ numUses=2,1.000000
 useVanishIndex=1,2
 useAppearIndex=-1
 pixHeight=0
-author=818439E626
+author=5ED1F9012B

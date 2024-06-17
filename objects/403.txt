@@ -1,7 +1,7 @@
 id=403
 Shell With Booberry
 containable=1
-containSize=2.000000,vertSlotRot=0.000000
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -119,4 +119,4 @@ numUses=6,1.000000
 useVanishIndex=2,3,4,5,6,7
 useAppearIndex=-1
 pixHeight=0
-author=38E3704DF8
+author=5ED1F9012B
