@@ -1,5 +1,5 @@
 id=390
-RNG Debug Wrap
+RNG Debug Wrap# emotEat_28_5
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

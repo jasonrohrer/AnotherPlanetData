@@ -1,5 +1,5 @@
 id=706
-Poisoned# no_replace emot_29_30 food_0.2 fever_20
+Poisoned# sick no_replace emot_29_35 food_0.2 fever_20
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -8,7 +8,7 @@ sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
-heatValue=-8
+heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
 male=0
@@ -21,7 +21,7 @@ speedMult=0.500000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
@@ -43,7 +43,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0,0.000000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0

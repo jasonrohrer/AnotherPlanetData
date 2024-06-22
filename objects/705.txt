@@ -1,5 +1,5 @@
 id=705
-SickFace #poisoned food_0.2 fever_20
+SickFace #poisoned
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -12,7 +12,7 @@ heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
 male=0
-deathMarker=1
+deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=0
@@ -21,7 +21,7 @@ speedMult=1.000000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
 sounds=26:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0

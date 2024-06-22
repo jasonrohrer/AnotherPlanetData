@@ -1,6 +1,6 @@
 id=276
 Chalk
-containable=1
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=611
+spriteID=888
 pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
@@ -43,8 +43,8 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,0.100000
+numUses=4,0.150000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=11
-author=5ED1F9012B
+author=9EAB7F458D

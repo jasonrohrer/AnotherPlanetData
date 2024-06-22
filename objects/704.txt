@@ -1,11 +1,11 @@
 id=704
-Googly Eyes
-containable=0
+Googly Eyes# +noWait
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=0
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -18,10 +18,10 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=4.000000,9.000000
+heldOffset=16.000000,1.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=0
+deadlyDistance=4
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
@@ -74,4 +74,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=27
-author=9EAB7F458D
+author=5ED1F9012B

@@ -1,8 +1,8 @@
 id=544
 Stack of Bamboo
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+containable=1
+containSize=3.000000,vertSlotRot=0.000000
+permanent=0,minPickupAge=16
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -128,4 +128,4 @@ numUses=9,1.000000
 useVanishIndex=1,2,3,4,5,6,7,8,9
 useAppearIndex=-1
 pixHeight=158
-author=38E3704DF8
+author=5ED1F9012B

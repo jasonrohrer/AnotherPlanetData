@@ -1,7 +1,7 @@
 id=475
 Bowl of Chalk
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -29,7 +29,16 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=7
+numSprites=8
+spriteID=1
+pos=0.000000,-10.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=716
 pos=2.000000,3.000000
 rot=0.000000
@@ -39,7 +48,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=611
+spriteID=888
 pos=0.000000,6.000000
 rot=0.000000
 hFlip=0
@@ -48,7 +57,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=611
+spriteID=888
 pos=9.000000,5.000000
 rot=0.125000
 hFlip=0
@@ -57,7 +66,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=611
+spriteID=888
 pos=-10.000000,6.000000
 rot=0.000000
 hFlip=0
@@ -66,7 +75,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=611
+spriteID=888
 pos=-8.000000,5.000000
 rot=0.125000
 hFlip=0
@@ -75,7 +84,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=611
+spriteID=888
 pos=2.000000,7.000000
 rot=0.125000
 hFlip=0
@@ -98,7 +107,7 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=5,1.000000
-useVanishIndex=1,2,3,4,5
+useVanishIndex=2,3,4,5,6
 useAppearIndex=-1
 pixHeight=18
-author=5ED1F9012B
+author=9EAB7F458D
