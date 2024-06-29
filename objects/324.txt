@@ -1,5 +1,5 @@
 id=324
-Dry Wall Window Horizontal# +hungryWork15
+Dry Wall Window Horizontal# +causeAutoOrient
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=1
 spriteID=656
-pos=34.000000,57.000000
+pos=35.000000,57.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

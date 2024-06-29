@@ -7,7 +7,7 @@ noFlip=1
 sideAccess=0
 heldInHand=1
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.060000#biomes_2
+mapChance=0.060000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -52,7 +52,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=6,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=164
