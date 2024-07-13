@@ -1,5 +1,5 @@
 id=866
-Grave Mound For Crew
+Grave Mound For Crew# origGrave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

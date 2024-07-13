@@ -1,5 +1,5 @@
 id=875
-Grave Mound for Cohort
+Grave Mound for Cohort# origGrave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
