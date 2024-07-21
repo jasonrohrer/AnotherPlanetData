@@ -1,5 +1,5 @@
 id=933
-Speedy Boop
+Speedy Boop# VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -29,17 +29,8 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=7
+numSprites=6
 spriteID=4
-pos=3.000000,-20.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=1
 pos=0.000000,-17.000000
 rot=0.000000
 hFlip=0
@@ -47,7 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=1
+invisCont=0
 spriteID=502
 pos=0.000000,-10.000000
 rot=0.000000
