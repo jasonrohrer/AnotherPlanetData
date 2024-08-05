@@ -9,7 +9,7 @@ heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.600000
+rValue=0.950000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -29,10 +29,10 @@ creationSoundForce=0
 numSlots=1#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-slotPos=-10.000000,-20.000000,vert=1,parent=-1
+slotPos=-10.000000,-40.000000,vert=1,parent=-1
 numSprites=2
 spriteID=858
-pos=-3.000000,-21.000000
+pos=-3.000000,-41.000000
 rot=0.000000
 hFlip=0
 color=0.082353,0.403922,0.811765
@@ -41,7 +41,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=666
-pos=0.000004,0.000000
+pos=0.000004,-20.000000
 rot=0.000000
 hFlip=0
 color=0.082353,0.403922,0.811765
@@ -56,5 +56,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=31
+pixHeight=11
 author=5ED1F9012B

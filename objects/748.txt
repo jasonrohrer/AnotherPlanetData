@@ -1,11 +1,11 @@
 id=748
-Rope3
+Pile of Rope
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=3
 spriteID=903
-pos=0.000000,0.000000
+pos=-6.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=0.901408,0.863857,0.825233
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=903
-pos=-2.000000,-15.000000
+pos=-8.000000,-35.000000
 rot=0.045000
 hFlip=0
 color=0.901408,0.863857,0.825233
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=903
-pos=14.000000,-8.000000
+pos=8.000000,-28.000000
 rot=-0.120000
 hFlip=0
 color=0.901408,0.863857,0.825233
@@ -62,7 +62,7 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=2,1.000000
-useVanishIndex=0,2
+useVanishIndex=1,2
 useAppearIndex=-1
-pixHeight=23
+pixHeight=3
 author=5ED1F9012B

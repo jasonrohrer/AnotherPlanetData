@@ -40,8 +40,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=502
-pos=0.000000,-27.000000
-rot=1.000000
+pos=0.000000,-26.000000
+rot=1.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000

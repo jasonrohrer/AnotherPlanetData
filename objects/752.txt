@@ -1,5 +1,5 @@
 id=752
-Spindle -wet
+Spindle with Wet Ropes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=3
 spriteID=541
-pos=0.000000,0.000000
+pos=0.000000,-20.000000
 rot=-0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=739
-pos=5.000000,6.000000
+pos=5.000000,-14.000000
 rot=0.360000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=898
-pos=-3.000000,-1.000000
+pos=-3.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=0.746479,1.000000,0.925015
@@ -64,5 +64,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=19
+pixHeight=0
 author=102CA969F5
