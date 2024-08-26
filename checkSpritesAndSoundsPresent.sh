@@ -35,7 +35,7 @@ allFound=1
 while IFS= read -r soundID; do
 
 	if [ ! -f ../sounds/$soundID.aiff ]; then
-		echo "File not found in sounds dir:  $soundID.aiff"
+		echo "Object sound not found in sounds dir:  $soundID.aiff"
 		allFound=0
 	fi
 
@@ -44,5 +44,29 @@ done <<< "$soundList"
 
 if [[ "$allFound" == 1 ]];
 then
-	echo "All sounds found"
+	echo "All object sounds found"
+fi
+
+
+
+cd ../animations
+
+soundList=`grep "soundParam=" *.txt | sed "s/.*=//" | sed "s/:.*//" | sort -h | uniq`
+
+
+allFound=1
+
+while IFS= read -r soundID; do
+
+	if [ ! -f ../sounds/$soundID.aiff ]; then
+		echo "Animation sound not found in sounds dir:  $soundID.aiff"
+		allFound=0
+	fi
+
+done <<< "$soundList"
+
+
+if [[ "$allFound" == 1 ]];
+then
+	echo "All animation sounds found"
 fi
