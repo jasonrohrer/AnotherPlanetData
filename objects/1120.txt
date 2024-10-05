@@ -1,5 +1,5 @@
 id=1120
-Quill With Paper
+Quill With Paper# &writable
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=14.000000,17.999996
+heldOffset=3.000000,-0.000004
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=3
 spriteID=450
-pos=11.142130,-37.556356
+pos=6.142130,-33.556356
 rot=1.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1139
-pos=-3.000000,-22.000002
+pos=-8.000000,-18.000002
 rot=-0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -64,5 +64,5 @@ frontFootIndex=-1
 numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=14
+pixHeight=18
 author=818439E626
