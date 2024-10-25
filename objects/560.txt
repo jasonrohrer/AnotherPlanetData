@@ -1,5 +1,5 @@
 id=560
-Stack of Bamboo# - cut2
+Stack of Bamboo - cut2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

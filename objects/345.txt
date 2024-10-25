@@ -9,7 +9,7 @@ heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.700000
+rValue=0.200000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=1
 spriteID=667
-pos=0.000000,-10.000000
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
 color=0.690196,0.078431,0.184314
@@ -46,5 +46,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=34
+pixHeight=44
 author=5ED1F9012B

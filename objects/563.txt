@@ -1,5 +1,5 @@
 id=563
-Bamboo# - cut2
+Bamboo - cut2
 containable=1
 containSize=1.500000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
