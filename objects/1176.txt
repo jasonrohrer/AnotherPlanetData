@@ -1,7 +1,7 @@
 id=1176
 HatFish
-containable=1
-containSize=2.000000,vertSlotRot=0.000000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -23,7 +23,7 @@ clothing=h
 clothingOffset=-20.000000,23.000000
 deadlyDistance=0
 useDistance=1
-sounds=284:0.250000,284:0.250000,-1:0.0,-1:0.0
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -146,4 +146,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=51
-author=102CA969F5
+author=65AFE3648B

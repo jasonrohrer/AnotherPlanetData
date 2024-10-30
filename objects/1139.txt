@@ -1,7 +1,7 @@
 id=1139
 Roasted Bird Sliced
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -110,4 +110,4 @@ numUses=6,1.000000
 useVanishIndex=2,3,4,5,6,7
 useAppearIndex=-1
 pixHeight=0
-author=102CA969F5
+author=818439E626

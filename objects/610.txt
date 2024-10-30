@@ -1,5 +1,5 @@
 id=610
-Stack of Bamboo - cut4 unbuild
+Stack of Bamboo# - cut4 unbuild
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

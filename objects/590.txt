@@ -1,5 +1,5 @@
 id=590
-Open Horizontal Bamboo Fence Gate - cut3 +wall +blocksMoving +causeAutoOrientH
+Open Horizontal Bamboo Fence Gate# - cut3 +wall +blocksMoving +causeAutoOrientH
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

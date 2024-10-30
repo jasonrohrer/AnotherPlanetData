@@ -2,7 +2,7 @@ id=878
 Grave Marker with Screwdriver
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=2
 spriteID=944
-pos=8.999998,-38.000000
+pos=-0.000002,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.989150,0.845000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=543
-pos=-17.000000,-33.000000
+pos=-26.000000,-30.000000
 rot=0.625000
 hFlip=0
 color=1.000000,1.000000,1.000000

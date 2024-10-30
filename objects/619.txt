@@ -1,5 +1,5 @@
 id=619
-Loose Horizontal Bamboo Fence Gate - cut3 +wall
+Loose Horizontal Bamboo Fence Gate# - cut3 +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

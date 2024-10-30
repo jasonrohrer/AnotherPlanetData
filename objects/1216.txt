@@ -30,7 +30,11 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
+<<<<<<< HEAD:objects/1216.txt
 spriteID=1223
+=======
+spriteID=944
+>>>>>>> parent of 17b1fc2 (Bunch of bugfixes by SoloSeven):objects/857.txt
 pos=-0.000002,-35.000000
 rot=0.000000
 hFlip=0
