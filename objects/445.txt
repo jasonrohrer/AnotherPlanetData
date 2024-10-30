@@ -7,11 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-<<<<<<< HEAD
-mapChance=0.010000#biomes_0
-=======
 mapChance=0.005000#biomes_3
->>>>>>> parent of 17b1fc2 (Bunch of bugfixes by SoloSeven)
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
