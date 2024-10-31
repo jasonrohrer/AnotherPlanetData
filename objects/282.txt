@@ -30,11 +30,11 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=607
-pos=2.000000,0.000000
+spriteID=1205
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.000000,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -46,5 +46,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=50
+pixHeight=63
 author=5ED1F9012B

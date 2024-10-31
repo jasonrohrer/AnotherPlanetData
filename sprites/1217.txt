@@ -1,1 +1,1 @@
-RockBlossomGraveMoundWithGravestone#WhaleRacer 0 -1 36 author=818439E626
+DoorOpen 0 -43 -59 author=9EAB7F458D

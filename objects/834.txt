@@ -1,5 +1,5 @@
 id=834
-Dry Wall Corner# beingDestroyed +hungryWork15 +cornerIronmudDry
+Dry Wall Corner# beingDestroyed +hungryWork15 +cornerSandDry
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=5
-spriteID=649
-pos=2.000000,2.000000
+spriteID=1206
+pos=1.000000,40.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=555
-pos=-53.000000,46.000000
+pos=-52.000000,89.000000
 rot=0.625000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=553
-pos=14.000000,12.000000
+pos=22.000000,90.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,8 +58,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=554
-pos=52.000000,-50.000000
-rot=0.000000
+pos=51.000000,-66.000000
+rot=-0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -67,7 +67,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=553
-pos=-50.000000,-50.000000
+pos=-50.000000,-45.000000
 rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -82,5 +82,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=127
+pixHeight=200
 author=5ED1F9012B
