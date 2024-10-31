@@ -1,5 +1,5 @@
 id=314
-Wet Wall Doorway Horizontal # +causeAutoOrient
+Wet Wall Doorway Horizontal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=1215
-pos=14.000000,112.000000
+spriteID=657
+pos=63.000000,45.000000
 rot=0.000000
 hFlip=0
 color=0.620000,0.620000,0.620000
@@ -46,5 +46,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=132
+pixHeight=86
 author=5ED1F9012B

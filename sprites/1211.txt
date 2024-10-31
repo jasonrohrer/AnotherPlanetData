@@ -1,1 +1,0 @@
-VerticalDoorOpen 0 0 0 author=9EAB7F458D

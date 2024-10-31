@@ -1,1 +1,0 @@
-DoorOpen 0 -43 -59 author=9EAB7F458D
