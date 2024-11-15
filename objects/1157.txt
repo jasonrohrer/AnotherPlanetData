@@ -1,7 +1,7 @@
 id=1157
 Bowl of Bird Soup
 containable=1
-containSize=1.000000,vertSlotRot=0.000000
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=8
 speedMult=1.000000
-heldOffset=7.000001,39.000000
+heldOffset=16.000001,44.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -47,4 +47,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
-author=818439E626
+author=102CA969F5

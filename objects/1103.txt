@@ -1,5 +1,5 @@
 id=1103
-Watered Domestic Booberry Bush
+Watered Booberry Bush
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,21 +29,12 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
+numSprites=1
 spriteID=391
 pos=0.000000,-24.000000
 rot=0.000000
 hFlip=0
 color=0.478873,0.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=1126
-pos=1.000000,-35.000000
-rot=0.000000
-hFlip=0
-color=0.400000,0.100000,0.100000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
