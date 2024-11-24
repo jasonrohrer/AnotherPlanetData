@@ -1,5 +1,5 @@
-id=251
-Moon Sod
+id=1253
+Moon Sod with Wet Chalk
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.010000#biomes_3
+mapChance=0.000000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -29,12 +29,21 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=2
 spriteID=885
 pos=0.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=888
+pos=-23.000000,-33.000000
+rot=1.000000
+hFlip=0
+color=1.000000,0.897441,0.338028
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
