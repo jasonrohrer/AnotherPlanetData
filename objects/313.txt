@@ -1,5 +1,5 @@
 id=313
-Wet Wall Window Horizontal# +causeAutoOrient
+Wet Wall Window Horizontal#
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
