@@ -1,12 +1,12 @@
 id=134
-Wreckage# gridPlacement40,40
+Wreckage with Hammer# gridPlacement40,40
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.100000#biomes_3
 heatValue=0
 rValue=0.000000

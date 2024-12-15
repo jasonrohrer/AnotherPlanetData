@@ -1,5 +1,5 @@
 id=324
-Dry Wall Window Horizontal# +causeAutoOrient
+Dry Wall Window Horizontal#
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
