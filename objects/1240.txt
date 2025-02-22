@@ -1,5 +1,5 @@
 id=1240
-Empty Crash Site #withTwoBolts
+Empty Crash Site #withTwoWires
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -120,8 +120,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1228
-pos=-139.000000,-14.000000
+spriteID=538
+pos=-147.000000,-44.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -129,8 +129,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1228
-pos=-111.000000,-15.000004
+spriteID=538
+pos=-118.000000,-45.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -143,7 +143,7 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=2,1.000000
-useVanishIndex=10,11
+useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=100
 author=5ED1F9012B
