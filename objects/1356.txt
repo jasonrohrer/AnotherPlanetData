@@ -1,5 +1,5 @@
 id=1356
-Preying Fungi Effigy # Feeding Boop wild
+Preying Fungi Effigy # Feeding Boop 
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
