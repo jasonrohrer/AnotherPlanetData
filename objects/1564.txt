@@ -1,11 +1,11 @@
 id=1564
 Pile of Cooked Gnash
-containable=1
-containSize=1.000000,vertSlotRot=-0.250000
-permanent=0,minPickupAge=3
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
+permanent=1,minPickupAge=3
 noFlip=1
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -16,7 +16,7 @@ deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=0
-foodValue=15
+foodValue=0
 speedMult=1.000000
 heldOffset=4.000000,-12.000000
 clothing=n
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=6
 spriteID=1348
-pos=16.000000,-29.000000
+pos=14.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1348
-pos=2.000000,-30.000000
+pos=0.000000,-34.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1348
-pos=-15.000000,-30.000000
+pos=-17.000000,-34.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1348
-pos=-8.000000,-19.000000
+pos=-10.000000,-23.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -67,7 +67,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1348
-pos=9.000000,-18.000000
+pos=7.000000,-22.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -76,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1348
-pos=0.000000,-7.000000
+pos=-2.000000,-11.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -91,5 +91,5 @@ frontFootIndex=-1
 numUses=5,1.000000
 useVanishIndex=0,2,3,4,5
 useAppearIndex=-1
-pixHeight=6
+pixHeight=2
 author=102CA969F5
