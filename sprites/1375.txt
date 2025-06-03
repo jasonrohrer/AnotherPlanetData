@@ -1,0 +1,1 @@
+short_stick_color 0 0 0 author=FF221D0444
