@@ -1,13 +1,13 @@
 id=553
-Big Square Boop House - cut1
+Big Square Boop House# cut1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0,1
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -247,7 +247,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=793
-pos=-39.000000,19.000000
+pos=-14.000000,18.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -256,7 +256,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=793
-pos=-14.000000,18.000000
+pos=-39.000000,19.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -502,7 +502,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=20,1.000000
+numUses=24,1.000000
 useVanishIndex=9,11,12,14,15,17,18,20,21,23,24,25,26,28,29,31,33,35,36,37,39,40,41,42
 useAppearIndex=-1
 pixHeight=89
