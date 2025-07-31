@@ -6,7 +6,7 @@ permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=29
+numSprites=28
 spriteID=787
 pos=18.000000,-15.000000
 rot=0.000000
@@ -157,7 +157,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1301
-pos=58.000000,-44.000000
+pos=58.000000,-45.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -274,16 +274,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1301
-pos=45.000000,-64.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=1301
-pos=58.000000,-64.000000
+pos=46.000000,-64.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -295,8 +286,8 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=27,1.000000
+numUses=26,1.000000
 useVanishIndex=-1
-useAppearIndex=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+useAppearIndex=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 pixHeight=124
 author=818439E626
