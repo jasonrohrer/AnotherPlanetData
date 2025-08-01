@@ -1,5 +1,5 @@
 id=739
-Spider Tree# Empty
+Spider Tree Empty
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,21 +29,12 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
+numSprites=1
 spriteID=892
 pos=-19.000000,75.000000
 rot=0.000000
 hFlip=0
 color=0.448720,0.816901,0.708003
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=893
-pos=-21.000000,75.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -56,4 +47,4 @@ numUses=7,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=217
-author=102CA969F5
+author=818439E626
