@@ -1,5 +1,5 @@
 id=1633
-Squish Ember Leaf
+Dry Squish Flower With Ember
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,20 +30,20 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=8
-spriteID=390
-pos=1.000000,-34.000000
-rot=0.000000
-hFlip=0
-color=1.000000,0.422535,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=497
 pos=0.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=0.997024,0.788732,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=390
+pos=1.000000,-34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,0.422535,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

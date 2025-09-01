@@ -1,11 +1,11 @@
 id=1637
 Agave Char
-containable=1
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=1
 spriteID=1383
-pos=0.000000,0.000000
+pos=-2.000000,-5.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
