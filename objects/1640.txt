@@ -1,5 +1,5 @@
 id=1640
-Bowl with Crushed Wild Party Plant Seed
+Bowl of Crushed Wild Party Plant Seed
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
