@@ -1,5 +1,5 @@
-id=1645
-Puff Treat# +yum1643
+id=1732
+Puff Treat# 2uses
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,12 +18,12 @@ floor=0
 floorHugging=0
 foodValue=12
 speedMult=1.000000
-heldOffset=30.000000,26.000000
+heldOffset=44.000000,31.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,387:0.250000,-1:0.0
+sounds=386:0.250000,-1:0.0,387:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -48,8 +48,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1389
-pos=2.000000,0.999999
+spriteID=1417
+pos=19.000000,17.000000
 rot=0.125000
 hFlip=0
 color=1.000000,0.521000,0.844831
@@ -57,21 +57,21 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1390
-pos=14.000000,18.000002
+spriteID=1418
+pos=26.000000,26.000002
 rot=0.125000
 hFlip=0
 color=1.000000,0.521000,0.844831
 ageRange=-1.000000,-1.000000
-parent=2
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0,0.000000
-useVanishIndex=-1
+numUses=2,1.000000
+useVanishIndex=2,3
 useAppearIndex=-1
-pixHeight=43
+pixHeight=52
 author=818439E626
