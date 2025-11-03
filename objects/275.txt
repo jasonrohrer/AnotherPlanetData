@@ -1,5 +1,5 @@
 id=275
-Sand Ball Bush #empty
+Sand Ball Bush #empty +BiomeReq1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
