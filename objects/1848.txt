@@ -1,12 +1,12 @@
-id=1401
-Abandoned Shop
+id=1848
+Abandoned Shop With Snail
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=2,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=2,drawBehindPlayer=1
 mapChance=0.000000#biomes_3
 heatValue=0
 rValue=0.000000
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=6
+numSprites=9
 spriteID=859
 pos=177.000000,26.000000
 rot=0.000000
@@ -84,6 +84,33 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=672
+pos=196.000000,34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=669
+pos=195.000000,40.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=6
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=669
+pos=201.000000,46.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=6
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -92,4 +119,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=201
-author=A3768E20D8
+author=81AF868067
