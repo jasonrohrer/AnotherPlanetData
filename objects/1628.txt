@@ -1,5 +1,5 @@
-id=1567
-Carnivorous Gnash
+id=1628
+Carnivorous Gnash# chomping -1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,11 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-<<<<<<< HEAD
-mapChance=0.050000#biomes_1
-=======
-mapChance=0.000050#biomes_1
->>>>>>> parent of 0373f23 (Bug fixes)
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -25,15 +21,15 @@ speedMult=1.000000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
-deadlyDistance=1
-useDistance=0
+deadlyDistance=0
+useDistance=1
 sounds=316:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=12
+numSprites=11
 spriteID=1275
 pos=1.000000,-39.000000
 rot=0.000000
@@ -76,7 +72,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=10
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1353
@@ -85,7 +81,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=10
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1353
@@ -94,7 +90,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=10
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1353
@@ -103,7 +99,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=10
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1353
@@ -112,16 +108,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=10
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=1353
-pos=12.000000,119.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=10
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1353
@@ -130,7 +117,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=10
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1343
@@ -150,4 +137,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=156
-author=FF221D0444
+author=818439E626

@@ -1,5 +1,4 @@
 parentID=1769
-pattern
 numObjects=2
 1760
 1761
