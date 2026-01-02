@@ -1,5 +1,5 @@
 id=1334
-Flowering Tree Stump# +hungryWork5
+Flowering Tree Stump
 containable=1
 containSize=0.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=15
