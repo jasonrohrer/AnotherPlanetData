@@ -1,6 +1,6 @@
 id=1711
-Burnt Fail Biscuit +emoteEat_3_5
-containable=0
+Burnt Fail Biscuit
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -9,7 +9,7 @@ heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.000000
+rValue=0.700000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=2:0.100000,-1:0.0,400:0.250000,-1:0.0
+sounds=2:0.100000,427:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
