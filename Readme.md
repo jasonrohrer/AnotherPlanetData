@@ -30,11 +30,11 @@ currently plan to keep categories for tools, though, in case new tools in a cate
 # Unused/unclear Category items:
 ## single-item categories:
 ### The Apocolypse (#813): no idea why this exists
-Thought just naming a normal object sufficed, no idea what category wrapper around it does.
+Thought just naming a normal object this sufficed, no idea what category wrapper around it does.
 ### Old Alters(#807-811): no idea why this exists
 
-
+## larger categories:
 ## Set of Astrosuit (#394): no idea why this exists
 a list of every astro-suit item in the game, but unused in any transitions...?
-Perhaps Astrosuit(#392) is missing Colored Helmets but otherwise seems to have subsumed this list
+the category Perhaps Astrosuit(#392) is missing Colored Helmets but otherwise seems to have subsumed this list
 
