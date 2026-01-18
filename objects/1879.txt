@@ -1,5 +1,5 @@
-id=1105
-@ All Knives #Patterned
+id=1879
+@ All Knives #Non-Pattern
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -74,4 +74,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=59
-author=5ED1F9012B
+author=81AF868067
