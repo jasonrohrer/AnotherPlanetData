@@ -1,9 +1,9 @@
-id=391
-Perhaps Pink Space Suit
+id=1880
+@ Small Liquid Container
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
-noFlip=0
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -19,8 +19,8 @@ floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=0.000000,0.000000
-clothing=t
-clothingOffset=1.000000,38.000000
+clothing=n
+clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
@@ -29,9 +29,9 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=418
-pos=-2.000000,33.000000
+numSprites=4
+spriteID=690
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,11 +39,29 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=666
-pos=-1.000000,-23.000000
+spriteID=418
+pos=-1.000000,64.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.380000,0.800360
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=588
+pos=40.000000,0.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=584
+pos=0.000000,0.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -55,5 +73,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=58
-author=5ED1F9012B
+pixHeight=89
+author=81AF868067
