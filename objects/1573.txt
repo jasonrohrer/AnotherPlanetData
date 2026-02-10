@@ -1,5 +1,5 @@
 id=1573
-@ small liquid container of boop
+@ small liquid container of boop # Do not use on Categories
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1157
-Bowl of Bird Soup
+Bowl of Bird Soup +containOffsetBottomY_-27
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

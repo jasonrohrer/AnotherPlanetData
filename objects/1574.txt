@@ -1,5 +1,5 @@
 id=1574
-@ Small Liquid Container (Just Emptied)
+@ Small Liquid Container (Water Just Emptied)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
