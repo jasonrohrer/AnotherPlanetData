@@ -1706,7 +1706,7 @@ empty
 x=7,y=6
 biome=0
 empty
-oID=2031
+oID=2038
 heldID=-1
 numCont=0
 hat=0
