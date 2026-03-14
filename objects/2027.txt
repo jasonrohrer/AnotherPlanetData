@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=89
+numSprites=87
 spriteID=1
 pos=4.000000,0.000000
 rot=0.000000
@@ -633,24 +633,6 @@ ageRange=0.200000,55.000000
 parent=61
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=161
-pos=-14.000000,138.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=35.000000,40.000000
-parent=61
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=163
-pos=-14.000000,140.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=25.000000,35.000000
-parent=61
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=54
 pos=8.000000,139.000000
 rot=0.000000
@@ -675,7 +657,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=0.000000,0.200000
-parent=70
+parent=68
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=57
@@ -742,7 +724,7 @@ parent=61
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1633
-pos=-5.000000,145.999992
+pos=-3.000000,144.999992
 rot=0.000000
 hFlip=0
 color=0.661972,0.661972,0.661972
@@ -751,7 +733,7 @@ parent=61
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1634
-pos=-7.000000,148.000000
+pos=-4.000000,147.000000
 rot=0.000000
 hFlip=0
 color=0.718310,0.718310,0.718310
@@ -782,7 +764,7 @@ pos=-1.000000,144.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=7.000000,25.000000
+ageRange=7.000000,40.000000
 parent=61
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
@@ -792,7 +774,7 @@ rot=-0.125000
 hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=3.000000,7.000000
-parent=82
+parent=80
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1637
@@ -801,7 +783,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=55.000000,999.000000
-parent=78
+parent=76
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1638
@@ -838,5 +820,5 @@ frontFootIndex=6,15,17,30,36
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=173
+pixHeight=172
 author=818439E626
