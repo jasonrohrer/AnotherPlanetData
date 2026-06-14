@@ -1,23 +1,45 @@
 # Captain's Log
 
-## Game
+## About this file
+- Generally
+  - This file is for the Content Leader to take notes. It's not expected to be exhaustive, just helpful to the Content Leader.
+  - Remember that the next leader may have to make sense of it. So include enough context.
+- Work Notes
+  - This is just a scratch pad.
+  - Keep chronological. Otherwise, no presumption of quality of the info. No need to clean up or delete.
+  - If info becomes timeless, either move or copy to the other sections.
+- Everywhere above Work Notes.
+  - Timeless info. If it doesn't apply any more, do something with it. Keep this info up to date.
+  - Write down reference info, explain choices, describe counterintuitive things.
+  - Try not to stub out hopeful work, like plans for how this will be that, etc. Do that freely in the Work Notes, but keep this for explaining the current state or immanent work.
+  - Checkboxes are used as todo's or otherwise tracking something. Dispatch when done; Simply delete and consider if you need to document something about it.
+
+## Game Content
 ### Building
-#### Doors
-- [ ] Open and closed doors don't share a door frame sprite. This makes a jarring transition. Maybe the doorway frame can be placed on top of them.
-- [ ] All the doors need positions tweaked and/or sprites made common. The posts are at differnt heights. Set the top post under the players feet (when standing on tile above).
+- Walls and Doors
+  - All variants need reviewed for:
+    - [ ] use of common sprites
+    - [ ] locations don't jump on transitions
+      - for example, opened/closed doors
+    - [ ] locations so connected pieces look right
+    - pay attention to players standing on or behind things.
+      - particularly
+        - [ ] vertical door posts
+        - [ ] corner walls
 ### Cooking
 ### Farming
 ### Smithing
 ### Tools
 
-## Editor
+## Editor Help
 
 ### Category Shenanigans:
+- categories can be confusing.
 #### Party Plants (12 categories): *almost* a simple extension of single-plant logic
 ###### All Knives: Patterned(#1105) Vs. Unpatterned(#1879): Unpatterned Knives currently only used here
 initialization of recipe chain (uncut puff > cut puff&seed) requires an unpatterned knives Category variant (#1879) to prevent 1-1-1-1 relationships.
 - (A1, A2)*~~P~~* + (B1, B2)P = (C1, C2)*~~P~~* + (D1, D2)P
-- this breaks down (assuming len(A)=len(C) and len(B)=len(D), haven't tested ≠) into 'any A can be used on any B' instead of A1 + B2 = C1 + D1
+- this breaks down (assuming len(A)=len(C) and len(B)=len(D), haven't tested !=) into 'any A can be used on any B' instead of A1 + B2 = C1 + D1
 
 #### Smolder Natural Spawns (#1735): A list of all natural spawns in the Smolder (brown) biome.
 used due to Crashed Rocket spawning there, and thus 'vanishing' objects next to it to make it look correct.
@@ -53,16 +75,23 @@ currently plan to keep categories for tools, though, in case new tools in a cate
 - In order for transitioning objects to retain the same use count, objects must have the same number of uses.
   - For example, a basket of gravel has 3 uses and so gravel (the small pile) should have 3 uses. Else, digging up a gravel road will give a thing of gravel and once picked up in a basket will make 3 roads. To get around this, digging up a road only gives one use because it is set to Reverse Use.
 
-## Work notes
+## Work Notes
 ### 2026-06-07
 - [Door_7_cc9f38.oxz](https://discord.com/channels/1232794966766522480/1411324821962227793)
 - [SmeltingDoorSteel_7_38def3.oxz](https://discord.com/channels/1232794966766522480/1411324821962227793/1460649339281215633)
 - [DoorPlates_3_e5921b.oxz](https://discord.com/channels/1232794966766522480/1411324821962227793/1469043847068651634)
-    - This was intended to replace objects in SmeltingDoorSteel_7_38def3.oxz, but both mods were done user side. The replace was self-consistent for the user, but on my local files the object numbers were different. I'll have to figure out the changes and manually apply them. I haven't created the transitions yet, so maybe I can just import these new and use them instead of the previous.
-- Transition in place.
-- [x] In testing, the closed doors don't block.
-- [x] I noticed there are wet door objects, but we build a door by adding a door to a "dry opening in a wall".
-    - leave them. I think it's prt of demolishing them (categories).
-- [x] no close sound on vertical door.
-- [x] The vertical door post hides behind a corner (at least) until you add a door.
-    - And then the post is in front of the player. I don't know what to do with this. Oh, there's an attribute for the sprite (behind player).
+  - This was intended to replace objects in SmeltingDoorSteel_7_38def3.oxz, but both mods were done user side. The replace was self-consistent for the user, but on my local files the object numbers were different. I'll have to figure out the changes and manually apply them. I haven't created the transitions yet, so maybe I can just import these new and use them instead of the previous.
+- I noticed there are wet door objects, but we build a door by adding a door to a "dry opening in a wall".
+  - leave them. I think it's part of destroying them through categories, and categories need the same amount of items.
+- The vertical door post hides behind a corner (at least) until you add a door.
+  - And then the post is in front of the player. I don't know what to do with this. Oh, there's an attribute for the sprite (behind player). Still, seems something is up with the door posts... Either behind the player or in front of the wall above. Not both.
+### 2026-05-13
+- [WetWallsREPLACE_10_aadb7b.oxz](https://discord.com/channels/1232794966766522480/1486103020725862631/1486103020725862631)
+  - the linework is flat. the previous walls had better edges.
+  - sizes have changed. I don't know yet if it's good or bad.
+- [DryWallsREPLACE_15_75ac54.oxz](https://discord.com/channels/1232794966766522480/1486103020725862631/1486103020725862631)
+- [DestroyWallsREPLACE_10_30d77e.oxz](https://discord.com/channels/1232794966766522480/1486103020725862631/1486103020725862631)
+- [WallShelfRemovedREPLACE_1_565c95.oxz](https://discord.com/channels/1232794966766522480/1486103020725862631/1486103020725862631)
+- Scratch that. I didn't check any of this in.
+  - These sprites aim to allow better coloring with he editor color slider by having the sprites black and white. But they have worse linework and no shading. And the positions and sizes 1are different (good or bad I don't know).
+  - Ultimately, I'm not ready to work this out.
