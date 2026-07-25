@@ -95,3 +95,16 @@ currently plan to keep categories for tools, though, in case new tools in a cate
 - Scratch that. I didn't check any of this in.
   - These sprites aim to allow better coloring with he editor color slider by having the sprites black and white. But they have worse linework and no shading. And the positions and sizes 1are different (good or bad I don't know).
   - Ultimately, I'm not ready to work this out.
+
+### 2026-07-25
+#### Laser Wound bug
+- What happens is that the wound object stays on the body when they die. And so people can pick it up. It can't be dropped, and that leads to no fun.
+- I tried to figure this out, but didn't put enough time into it.
+- I think it has to do with the multiple uses that the Ray Gun has.
+  - Either
+    - the murder transition format required by the game doesn't have space for a multi-use weapon
+      - because the format seems to rely on the "last use" flag on particular transitions to depict how the weapon or the body transitions ofter the kill shot, and so you can't have a first use weapon transition without contradicting that.
+    - or we don't have the right transitions in the right format.
+      - I'm not clear on the required murder format, so I couldn't make sense of what we have.
+- A possible fix could be simply putting a decay on the wound so that it disappears about the same time that the person turns to bones.
+  - SoloSeven suggested this. And it may be the only option if multi-use murder weapons are impossible.
